@@ -51,16 +51,19 @@
     <dependency>
       <groupId>org.wildfly.swarm</groupId>
       <artifactId>jaxrs</artifactId>
+      <version>2018.3.3</version>
     </dependency>
 
     <dependency>
       <groupId>org.wildfly.swarm</groupId>
       <artifactId>monitor</artifactId>
+      <version>2018.3.3</version>
     </dependency>
 
     <dependency>
       <groupId>org.wildfly.swarm</groupId>
       <artifactId>cdi</artifactId>
+      <version>2018.3.3</version>
     </dependency>
 
     <dependency>
